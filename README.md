@@ -35,3 +35,7 @@ It is intended for use in **blue teaming** operations or basic malware triage.
 2. Navigate to the folder containing `malscan.py`.
    ```powershell
    cd "C:\path\to\your\malscan\folder"
+
+
+git clone https://github.com/yourusername/malcheak.git
+
