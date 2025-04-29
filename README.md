@@ -38,5 +38,5 @@ It is intended for use in **blue teaming** operations or basic malware triage.
    cd "C:\path\to\your\malscan\folder"
 
 
-git clone https://github.com/yourusername/malcheak.git
+git clone https://github.com/abinash-panigrahy/malscan.git
 
